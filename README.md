@@ -1,2 +1,2 @@
-# Kodluyoruz-Web-Sayfas-
+# Kodluyoruz-Web-Sayfa-
 Kodluyoruz Web Sayfası Ödevi
